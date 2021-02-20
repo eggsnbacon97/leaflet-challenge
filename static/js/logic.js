@@ -9,7 +9,7 @@ var graymap = L.tileLayer(
     tileSize: 512,
     maxZoom: 18,
     zoomOffset: -1,
-    id: "mapbox/light-v10",
+    id: "mapbox/dark-v10",
     accessToken: API_KEY
   }
 );
